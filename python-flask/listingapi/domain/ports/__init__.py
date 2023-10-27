@@ -1,0 +1,2 @@
+from listingapi.domain.ports.listing_repository import ListingRepository
+from listingapi.domain.ports.listing_price_log_repository import ListingPriceLogRepository
